@@ -305,7 +305,7 @@ This project was developed as a contribution to the professor's ongoing Network-
 
 \- Aakanksha Priya
 
-\- Aishwarya Tripathy  //
+\- Aishwarya Tripathy  
 
 \- Prayush Sinha//
 
