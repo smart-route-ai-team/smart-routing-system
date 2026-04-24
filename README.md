@@ -242,12 +242,12 @@ TrafficModel: MAE=9.858  Classifier Acc=87.22%
 
 
 ## 👨‍💻 Team Members
-\- Astha Pradhan
+\- Astha Pradhan //
 
 \- Aakanksha Priya
 
-\- Aishwarya Tripathy  
+\- Aishwarya Tripathy  //
 
-\- Prayush Sinha
+\- Prayush Sinha//
 
-\- Md Zaid Alishan  
+\- Md Zaid Alishan  //
