@@ -242,7 +242,7 @@ TrafficModel: MAE=9.858  Classifier Acc=87.22%
 
 
 ## 👨‍💻 Team Members
-\- Astha Pradhan //
+\- Astha Pradhan
 
 \- Aakanksha Priya
 
