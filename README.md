@@ -307,6 +307,6 @@ This project was developed as a contribution to the professor's ongoing Network-
 
 \- Aishwarya Tripathy  
 
-\- Prayush Sinha//
+\- Prayush Sinha
 
 \- Md Zaid Alishan
