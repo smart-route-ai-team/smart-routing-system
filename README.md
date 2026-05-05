@@ -250,3 +250,13 @@ TrafficModel: MAE=9.858  Classifier Acc=87.22%
 ### 📊 Analytics & ML Prediction
 ![Analytics](screenshots/Screenshot_2026-05-05_144611.png)
 ![ML Prediction](screenshots/Screenshot_2026-05-05_144711.png)
+
+## 👥 Team Members
+
+| Name | GitHub |
+|------|--------|
+| Astha Pradhan | [@astha-1016](https://github.com/astha-1016) |
+| Aakanksha Priya | [@Aakankshapriya2909](https://github.com/Aakankshapriya2909) |
+| Aishwarya Tripathy | [@aishwaryatripathy03](https://github.com/aishwaryatripathy03) |
+| Zaid Alishan | [@Md-Zaid-Alishan](https://github.com/Md-Zaid-Alishan) |
+| Prayush Sinha | [@prayush-sinha](https://github.com/prayush-sinha) |
