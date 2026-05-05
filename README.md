@@ -1,4 +1,4 @@
-# 🧠 AI-Based Smart NoC Routing System v2.0
+# 🧠 AI-Based Smart NoC Routing System 
 
 > Multi-level intelligent packet routing for **Network-on-Chip (NoC)** architectures,  
 > powered by 30,000 real UART/I2C/SPI samples and a full Protocol Intelligence engine.
