@@ -260,3 +260,6 @@ TrafficModel: MAE=9.858  Classifier Acc=87.22%
 | Aishwarya Tripathy | [@aishwaryatripathy03](https://github.com/aishwaryatripathy03) |
 | Zaid Alishan | [@Md-Zaid-Alishan](https://github.com/Md-Zaid-Alishan) |
 | Prayush Sinha | [@prayush-sinha](https://github.com/prayush-sinha) |
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) © 2026 Astha Pradhan, Aakanksha Priya, Aishwarya Tripathy, Zaid Alishan, Prayush Sinha
