@@ -1,4 +1,7 @@
-# 🧠 AI-Based Smart NoC Routing System v2.0
+# 🧠 AI-Based Smart NoC Routing System 
+![GitHub stars](https://img.shields.io/github/stars/smart-route-ai-team/noc-smart-routing-system)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 > Multi-level intelligent packet routing for **Network-on-Chip (NoC)** architectures,  
 > powered by 30,000 real UART/I2C/SPI samples and a full Protocol Intelligence engine.
